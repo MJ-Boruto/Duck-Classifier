@@ -1,2 +1,4 @@
 voila
 fastai
+packaging
+ipywidgets
